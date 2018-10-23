@@ -1,0 +1,22 @@
+#div-right{
+    width:80%;
+    height:400px;
+    text-Align:center;
+    margin: 0 auto;
+}
+.div_body{
+    margin-top: 0.5%;
+}
+.table_oftop{
+    padding: 10px;
+}
+.selectedDelete{
+    float: left;
+    margin-left: 35%;
+}
+.add_user_btn{
+    margin-left: auto;
+}
+.user_details{
+    float: right;
+}  

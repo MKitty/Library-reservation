@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.nav-text{font-size: 14px}
+.ant-breadcrumb span{font-size: 14px;}
